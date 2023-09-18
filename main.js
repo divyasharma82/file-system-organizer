@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { help } from "./commands/help.mjs"; // Import the displayHelp function from help.js
+import { help } from "./commands/help.mjs"; // Import the help function from help.js
 import { organize } from "./commands/organize.mjs"; // Import the organize function from organize.js
 import { tree } from "./commands/tree.mjs"; // Import the tree function from tree.js
 
